@@ -14,10 +14,10 @@
 
 <br />
 <div align="center">
-  <span>
+  <!-- <span>
     <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/codeigniter.png?raw=true"/>
   </span>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp; -->
   <!--<span>
     <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/flutter.png?raw=true"/>
   </span>
@@ -43,10 +43,10 @@
     <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/mysql.png?raw=true"/>
   </span>
   &nbsp;&nbsp;
-  <span>
+  <!-- <span>
     <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/oop.png?raw=true"/>
   </span>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp; -->
   <span>
     <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/phpMyAdmin.png?raw=true"/>
   </span>
@@ -55,9 +55,9 @@
     <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/sql.png?raw=true"/>
   </span>
   &nbsp;&nbsp;
-  <span>
+  <!-- <span>
     <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/php.png?raw=true"/>
-  </span>
+  </span> -->
 </div>
 
 
